@@ -21,11 +21,10 @@ Bu web tabanlı uygulama, kullanıcıların ikinci el ürünlerini ilan etmeleri
 
 ## Kullanım
 
-1. İlk olarak, kayıt olmanız gerekmektedir. Kayıt işlemi için kullanıcı adı, e-posta adresi ve şifre girilmelidir.
+1. İlk olarak, kayıt olmanız gerekmektedir. Kayıt işlemi için kullanıcı adı ve şifre girilmelidir.
 2. Kayıt olduktan sonra, oturum açabilirsiniz. Giriş yaparken kullanıcı adı ve şifre gerekmektedir.
 3. Oturum açtıktan sonra, ilan ekleyebilir, düzenleyebilir ve silebilirsiniz. Ayrıca diğer kullanıcıların ilanlarını görüntüleyebilirsiniz.
 4. İlanları listeleyerek, ilanların detaylarına ulaşabilirsiniz. Düzenleme ve silme işlemleri için ilgili düğmelere tıklayabilirsiniz.
-5. Profil sayfasından kullanıcı bilgilerinizi düzenleyebilirsiniz.
 
 ## Katkıda Bulunma
 
